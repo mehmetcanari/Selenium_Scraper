@@ -1,0 +1,23 @@
+/Users/mehmetcanari/RiderProjects/Selenium_Test/Selenium_Test/bin/Debug/selenium-manager/linux/selenium-manager
+/Users/mehmetcanari/RiderProjects/Selenium_Test/Selenium_Test/bin/Debug/selenium-manager/macos/selenium-manager
+/Users/mehmetcanari/RiderProjects/Selenium_Test/Selenium_Test/bin/Debug/selenium-manager/windows/selenium-manager.exe
+/Users/mehmetcanari/RiderProjects/Selenium_Test/Selenium_Test/bin/Debug/Selenium_Test.exe
+/Users/mehmetcanari/RiderProjects/Selenium_Test/Selenium_Test/bin/Debug/Selenium_Test.pdb
+/Users/mehmetcanari/RiderProjects/Selenium_Test/Selenium_Test/bin/Debug/WebDriver.dll
+/Users/mehmetcanari/RiderProjects/Selenium_Test/Selenium_Test/obj/Debug/Selenium_Test.csproj.AssemblyReference.cache
+/Users/mehmetcanari/RiderProjects/Selenium_Test/Selenium_Test/obj/Debug/Selenium_Test.csproj.CoreCompileInputs.cache
+/Users/mehmetcanari/RiderProjects/Selenium_Test/Selenium_Test/obj/Debug/Selenium_Test.csproj.CopyComplete
+/Users/mehmetcanari/RiderProjects/Selenium_Test/Selenium_Test/obj/Debug/Selenium_Test.exe
+/Users/mehmetcanari/RiderProjects/Selenium_Test/Selenium_Test/obj/Debug/Selenium_Test.pdb
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\bin\Debug\selenium-manager\linux\selenium-manager
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\bin\Debug\selenium-manager\macos\selenium-manager
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\bin\Debug\selenium-manager\windows\selenium-manager.exe
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\bin\Debug\Selenium_Test.exe
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\bin\Debug\Selenium_Test.pdb
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\bin\Debug\WebDriver.dll
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\obj\Debug\Selenium_Test.csproj.AssemblyReference.cache
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\obj\Debug\Selenium_Test.csproj.SuggestedBindingRedirects.cache
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\obj\Debug\Selenium_Test.csproj.CoreCompileInputs.cache
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\obj\Debug\Selenium_Test.csproj.CopyComplete
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\obj\Debug\Selenium_Test.exe
+F:\Selenium Projects\Selenium_NetflixLogin\Selenium_Test\obj\Debug\Selenium_Test.pdb
