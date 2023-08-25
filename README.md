@@ -1,4 +1,4 @@
-# Selenium_NetflixLogin
+# Netflix Webhook
 Netflix automated user login test tool
 
 User can give their e-mail and password input in code and run it.
